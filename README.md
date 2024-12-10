@@ -2,13 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=800&color=FA8EEF&center=true&vCenter=true&width=1000&lines=Hey+There%2C+my+name+is+Brayan+Adeol%C3%A1;I'm+glad+you're+here;I'm+a+Computer+Science+Student;I+live+in+Peru%C3%ADbe+-+SP%2C+Brazil)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BAdeola&show_icons=true&count_private=true&hide_border=true&title_color=fa8eef&icon_color=fa8eef&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAdeola&layout=compact&hide_border=true&title_color=fa8eef&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BAdeola&bg_color=000000&color=fa8eef&line=fa8eef&point=FA4AE7FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <div align="center">  
 <a href="https://www.instagram.com/brayanadeola/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
